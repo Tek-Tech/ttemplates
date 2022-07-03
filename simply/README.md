@@ -4,6 +4,6 @@
 >><a href='https://tek-tech.github.io/ttemplates/simply'>https://tek-tech.github.io/ttemplates/simply</a>
 <div style='display:flex;flex-direction:row;'>
     <div>
-       <img src='simply'/>
+       <img src='simply.png'/>
     </div>
 </div>
