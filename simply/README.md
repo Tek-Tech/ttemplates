@@ -1,13 +1,96 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Simply</title>
-</head>
 <body>
+    <style>
+        h1,h2,h2,h4,h5{
+            box-shadow: 0 5px 5px red;
+            border-bottom: 15px solid white;
+            background: red;
+            color: white;
+            font-weight: bolder;
+        }
+        body{
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            width: 100vw;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+        }
+        header{
+            position: sticky;
+            top: 0;
+            background: white;
+            padding: 2%;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            color: red;
+        }
+        header h1{
+            background: white;
+            box-shadow: 0 5px 5px white;
+            border-bottom: 15px solid red;
+            color: red;
+        }
+        header a{
+            transition: 0.4s;
+            background: red;
+            color: white;
+            transform: rotate(-5deg);
+            box-shadow: 0 5px 5px red;
+            border-bottom: 15px solid white;
+            margin-right: 2%;
+        }
+        header a:hover{
+            box-shadow: 0 -5px 5px white;
+            border-top: 15px solid red;
+            border-bottom: 15px solid red;
+            transform: none;
+            background: white;
+            color: red;
+            transition: 0.5s;
+        }
+        header > *{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        header nav{
+            justify-content:center ;
+            display: flex;
+            flex-direction: row;
+            min-width: 50%;
+        }
+        header nav > *{
+            padding: 2%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .view{
+            min-height: 60vh;
+            margin: 0;
+            background: red;
+            color: white;
+            padding: 10%;
+            padding-top: 5%;
+            width: 80%;
+            display: flex;
+            flex-direction: column;
+        }
+        @media screen and (max-width:997px){
+            header{
+                display: flex;
+                flex-direction: column;
+            }
+            header nav{
+                overflow-x: scroll;
+                justify-content: flex-start;
+                padding: 2%;
+            }
+        }
+    </style>
+
     <header>
         <h1>
             SIMPLY
@@ -48,4 +131,3 @@
         </h1>
     </section>
 </body>
-</html>
