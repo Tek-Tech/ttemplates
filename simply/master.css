@@ -23,6 +23,26 @@
     background-position:center;
     background: #222b;
 }
+#services{    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    margin: 0;
+    padding: 10%;
+}
+#services #liste-services{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#services #liste-services .service-box{
+    display: flex;
+    flex-direction: column;
+}
+#services #liste-services .service-box .illu-service{
+    height: 35vh;
+}
 @media screen and (max-width:997px){
  
     #presentation #contenu{
