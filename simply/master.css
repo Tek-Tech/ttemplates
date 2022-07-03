@@ -50,4 +50,18 @@
         width:90%;
         margin: 5%;
     }   
+    #services #liste-services{
+        width: 80%;
+        margin: 0;
+        padding: 10%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    #services #liste-services .service-box{
+        width: 99%;
+        margin: 0.25%;
+        display: flex;
+        flex-direction: column;
+    }
 }
