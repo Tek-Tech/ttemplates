@@ -1,4 +1,13 @@
-
+.long-ad{
+    display: flex;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.long-ad img{
+    display: flex;
+    width: 100%;
+}
 #main h1,#main h2,#main h3,#main h4,#main h5{
     color: white;
     padding: 7%;
@@ -73,6 +82,27 @@ header #searchbar *{
     width: 38%;
 }
 #trois-derniers-une .article-une .illu-article-une{
+    display: flex;
+    width: 98%;
+    height: 35vh;
+    background: #111b;
+}
+#bloc-feed-une{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#bloc-feed-une #feed-une{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    flex-wrap: wrap;
+    width: 78%;
+}
+#bloc-feed-une #feed-une .article-une{
+    width: 22%;
+} 
+#bloc-feed-une #feed-une .article-une .illu-article-une{
     display: flex;
     width: 98%;
     height: 35vh;
