@@ -1,0 +1,42 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    min-height: 100vh;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    background: url('./back.jpeg');
+}
+header{
+    background: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+header nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+header nav a{
+    margin: 2%;
+    min-width: 15%;
+}
+header a,header #searchbar{
+ 
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    
+}
+header #searchbar{
+    flex-direction: row;
+}
+header #searchbar *{
+    padding: 1%;
+    margin-top: 11%;
+    margin-bottom: 11%;
+}
