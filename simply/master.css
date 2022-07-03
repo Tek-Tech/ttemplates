@@ -1,8 +1,10 @@
-#presentation{
+#presentation{    
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 100%;
+    width: 80%;
+    margin: 0;
+    padding: 10%;
 }
 #presentation #contenu{
     display: flex;
