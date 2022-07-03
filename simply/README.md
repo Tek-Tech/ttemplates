@@ -7,21 +7,21 @@
 </div>
 <div style='display:flex;flex-wrap:wrap;flex-direction:row;'>
     <div style='display:flex;flex-direction:column;width:25%;'>
-       <img src='simply.png'/>
+       <img src='simply.png' style='width:85px'/>
     </div>
     <div style='display:flex;flex-direction:column;width:25%;'>
-       <img src='simply2.png'/>
+       <img src='simply2.png'  style='width:85px'/>
     </div>
     <div style='display:flex;flex-direction:column;width:25%;'>
-       <img src='simplyfull.png'/>
+       <img src='simplyfull.png' style='width:85px'/>
     </div>
     <div style='display:flex;flex-direction:column;width:25%;'>
-       <img src='simplymob.png'/>
+       <img src='simplymob.png' style='width:85px'/>
     </div>
     <div style='display:flex;flex-direction:column;width:25%;'>
-       <img src='simplymob2.png'/>
+       <img src='simplymob2.png' style='width:85px'/>
     </div>
     <div style='display:flex;flex-direction:column;width:25%;'>
-       <img src='simplymobfull.png'/>
+       <img src='simplymobfull.png' style='width:85px'/>
     </div>
 </div>
