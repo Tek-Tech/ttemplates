@@ -40,6 +40,11 @@
 #services #liste-services .service-box .illu-service{
     height: 35vh;
 }
+#contact #content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
 @media screen and (max-width:997px){
  
     #presentation #contenu{
