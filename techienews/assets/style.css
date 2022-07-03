@@ -1,4 +1,11 @@
 
+#main h1,#main h2,#main h3,#main h4,#main h5{
+    color: white;
+    padding: 7%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: 0;
+}
 body{
     display: flex;
     flex-direction: column;
@@ -10,7 +17,10 @@ body{
     background: url('./back.jpeg');
 }
 header{
-    background: black;
+    position: sticky;
+    top: 0;
+    margin: 0;
+    background: #220033dd;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -39,4 +49,32 @@ header #searchbar *{
     padding: 1%;
     margin-top: 11%;
     margin-bottom: 11%;
+}
+#main{
+    padding-left: 10%;
+    padding-right: 10%;
+    background: #220033dd;
+}
+#article-une h2{
+    padding: 2.5%;
+}
+#article-une .illu-article-une{
+    display: flex;
+    width: 98%;
+    height: 45vh;
+    background: #111b;
+}
+#trois-derniers-une{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#trois-derniers-une .article-une{
+    width: 38%;
+}
+#trois-derniers-une .article-une .illu-article-une{
+    display: flex;
+    width: 98%;
+    height: 35vh;
+    background: #111b;
 }
