@@ -1,4 +1,4 @@
-#presentation{    
+#presentation,#services,#about,#contact{    
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -22,14 +22,6 @@
     justify-content: center;
     background-position:center;
     background: #222b;
-}
-#services{    
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    width: 80%;
-    margin: 0;
-    padding: 10%;
 }
 #services #liste-services{
     width: 80%;
