@@ -29,10 +29,11 @@
     padding: 10%;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
 }
 #services #liste-services .service-box{
-    width: 24%;
+    width: 49%;
     margin: 0.25%;
     display: flex;
     flex-direction: column;
