@@ -2,7 +2,7 @@
 
 >**PREVIEW AT**
 >><a href='https://tek-tech.github.io/ttemplates/simply'>https://tek-tech.github.io/ttemplates/simply</a>
-<div>
+<div style='border-radius:0.5em;border:1px solid red'>
    <img src='simply.png'/>
 </div>
 <div style='display:flex;flex-wrap:wrap;flex-direction:row;justify-content:center;text-align:center;'>
