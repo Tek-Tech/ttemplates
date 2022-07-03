@@ -2,6 +2,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    width: 100%;
 }
 #presentation #contenu{
     display: flex;
@@ -26,7 +27,7 @@
         display: flex;
         flex-direction: column;
     }   
-    #presentation #contenu > *{
+    #presentation #contenu p,#presentation #contenu img{
         width:90%;
         margin: 5%;
     }   
