@@ -45,6 +45,11 @@
     flex-direction: row;
     justify-content: space-between;
 }
+footer{
+    padding: 2%;
+    text-align: center;
+    font-weight: bolder;
+}
 @media screen and (max-width:997px){
  
     #presentation #contenu{
