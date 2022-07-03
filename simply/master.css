@@ -1,0 +1,11 @@
+#presentation{
+    display: flex;
+    flex-direction: column;
+}
+#presentation #contenu{
+    display: flex;
+    flex-direction: row;
+}
+#presentation #contenu p{
+    width: 60%;
+}
