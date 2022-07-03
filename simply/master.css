@@ -37,6 +37,8 @@
     justify-content: center;
 }
 #services #liste-services .service-box{
+    width: 24%;
+    margin: 0.25%;
     display: flex;
     flex-direction: column;
 }
