@@ -1,0 +1,61 @@
+
+#article-categorie{
+    margin-top: 2%;
+    height: 70vh;
+    margin-bottom: 2%;
+}
+#article-categorie h2{
+    position: relative;
+    z-index: 2;
+    padding: 2.5%;
+}
+#article-categorie .illu-article-categorie{
+    z-index: 1;
+    position: absolute;
+    display: flex;
+    width: 80%;
+    height: 70vh;
+    background: #111b;
+}
+#must-read .illu-article-categorie{
+    display: flex;
+    width: 100%;
+    height: 70vh;
+    background: #111b;
+}
+#trois-derniers-categorie{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#trois-derniers-categorie .article-categorie{
+    width: 38%;
+}
+#trois-derniers-categorie .article-categorie .illu-article-categorie{
+    display: flex;
+    width: 98%;
+    height: 35vh;
+    background: #111b;
+}
+#bloc-feed-categorie{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#bloc-feed-categorie #feed-categorie{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    flex-wrap: wrap;
+    width: 80%;
+}
+#bloc-feed-categorie #feed-categorie .article-categorie{
+    width: 48.3%;
+    background: #222a;
+} 
+#bloc-feed-categorie #feed-categorie .article-categorie .illu-article-categorie{
+    display: flex;
+    width: 98%;
+    height: 35vh;
+    background: #111b;
+}
