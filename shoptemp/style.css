@@ -7,6 +7,7 @@ body{
     min-height: 100vh;
     overflow-x: hidden;
     background: url('bg.jpg');
+    background: url('bg1.jpg');
     background-attachment: fixed;
 }
 em{
@@ -24,7 +25,7 @@ header,footer,.bloc-page{
 .bloc-page{
     margin-top: 25vh;
     overflow-x: hidden;
-    background: #fff9;
+    background: #2279;
 }
 .bloc-page h1,.bloc-page h2,.bloc-page h3,.bloc-page h4,.bloc-page h5,.bloc-page h6{
     color: white;
@@ -155,7 +156,7 @@ nav a:hover{
     flex-direction: column;
 }
 .produit .illu-produit img{
-    background: #fff9;
+    background: #ffb9;
     height: 30vh;
     width: 16.5vw;
     display: flex;
