@@ -16,3 +16,12 @@
    <img style='border-radius:0.5em;border:1px solid red' src='techienews/techie.png'/>
 </div>
 
+
+
+>## *SHOPTEMP* - <a href='https://github.com/Tek-Tech/ttemplates/tree/master/shoptemp'>Check ShopTemp On Github | Voir ShopTemp sur Github</a>
+
+>>**SEE PREVIEW AT | VOIR L'APERCU SUR** => <a href='https://tek-tech.github.io/ttemplates/shoptemp'>https://tek-tech.github.io/ttemplates/shoptem</a>
+<div style='border-radius:0.5em;border:1px solid red'>
+   <img style='border-radius:0.5em;border:1px solid red' src='shoptemp/shoptem.png'/>
+</div>
+
