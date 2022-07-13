@@ -272,4 +272,24 @@ footer #bloc-copyright{
         justify-content: flex-end;
         width: 100%;
     }
+    #carte-categories .liste-categories .categorie{
+        display: flex;
+        flex-direction: column;
+        width: 45vw;
+        height: 45vh;
+        text-align: center;
+    }
+    .categorie .illu-categorie{
+        position: absolute;
+        display: flex;
+        height: 45vh;
+        width: 45vw;
+    }
+    .categorie .illu-categorie img{
+        background: #fff9;
+        width: 45vw;
+        margin: 0;
+        padding: 0;
+        display: flex;
+    }
 }
