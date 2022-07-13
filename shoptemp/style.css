@@ -208,6 +208,9 @@ nav a:hover{
     justify-content: flex-end;
 }
 footer{
+    padding: 8%;
+    width: 86%;
+    overflow-x: hidden;
     background: #44cf;
     min-height: 65vh;
     margin-top: 5vh;
@@ -218,6 +221,8 @@ footer #bloc-copyright{
     left: 0;
     background: white;
     width: 100%;
+    padding: 0;
+    margin: 0;
     z-index: 8;
     text-align: center;
 }
