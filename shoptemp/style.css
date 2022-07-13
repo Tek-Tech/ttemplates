@@ -228,6 +228,7 @@ footer #bloc-copyright{
     text-align: center;
 }
 .prix-produit{
+    padding: 2.5%;
     background: orange;
 }
 #fiche-produit #resume-produit{
@@ -250,6 +251,9 @@ footer #bloc-copyright{
 #fiche-produit #resume-produit .produit .illu-produit img{
     width: 100%;
     height: 45vh;
+}
+#fiche-produit #description-produit{
+    background: white;
 }
 @media screen and (max-width:997px) {
  
