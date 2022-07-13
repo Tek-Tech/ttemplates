@@ -242,14 +242,14 @@ footer #bloc-copyright{
     .liste-lasts-produits-cat .produit,.liste-lasts-produits .produit{
         display: flex;
         flex-direction: column;
-        width: 86.5vw;
+        width: 100%;
         height: 30vh;
         margin: 0;
         padding: 0;
     }
     .produit .illu-produit{
         position: absolute;
-        width: 86.5vw;
+        width: 92%;
         height: 30vh;
         width: inherit;
         display: flex;
@@ -259,7 +259,7 @@ footer #bloc-copyright{
     .produit .illu-produit img{
         background: #fff9;
         height: 30vh;
-        width: 86.5vw;
+        width: 92%;
         display: flex;
         border: none;
         flex-direction: column;
