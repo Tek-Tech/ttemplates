@@ -230,8 +230,9 @@ footer #bloc-copyright{
 .prix-produit{
     background: orange;
 }
-#fiche-produit{
-
+#fiche-produit #resume-produit{
+    display: flex;
+    flex-direction: row;
 }
 @media screen and (max-width:997px) {
  
