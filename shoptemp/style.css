@@ -223,3 +223,16 @@ footer #bloc-copyright{
 .prix-produit{
     background: orange;
 }
+@media screen and (max-width:997px) {
+ 
+    header,footer,.bloc-page{
+        margin: 0;
+        padding: 4%;
+        width: 92%;
+    }
+    .bloc-page{
+        margin-top: 15vh;
+        overflow-x: hidden;
+        background: #fff9;
+    }   
+}
