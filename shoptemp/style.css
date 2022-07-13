@@ -233,6 +233,23 @@ footer #bloc-copyright{
 #fiche-produit #resume-produit{
     display: flex;
     flex-direction: row;
+    justify-content: flex-end;
+}
+#fiche-produit #resume-produit .produit{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+}
+#fiche-produit #resume-produit .produit .illu-produit{
+    display: flex;
+    width: 100%;
+    height: 45vh;
+    flex-direction: column;
+    position: relative;
+}
+#fiche-produit #resume-produit .produit .illu-produit img{
+    width: 100%;
+    height: 45vh;
 }
 @media screen and (max-width:997px) {
  
