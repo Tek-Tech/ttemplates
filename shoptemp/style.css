@@ -19,6 +19,7 @@ header,footer,.bloc-page{
     padding-left: 8%;
     padding-right: 8%;
     width: 84%;
+    overflow-x: hidden;
 }
 .bloc-page{
     margin-top: 25vh;
