@@ -230,6 +230,9 @@ footer #bloc-copyright{
 .prix-produit{
     background: orange;
 }
+#fiche-produit{
+
+}
 @media screen and (max-width:997px) {
  
     header,footer,.bloc-page{
