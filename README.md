@@ -13,6 +13,6 @@
 
 >>**SEE PREVIEW AT | VOIR L'APERCU SUR** => <a href='https://tek-tech.github.io/ttemplates/techienews'>https://tek-tech.github.io/ttemplates/techinews</a>
 <div style='border-radius:0.5em;border:1px solid red'>
-   <img style='border-radius:0.5em;border:1px solid red' src='techie.png'/>
+   <img style='border-radius:0.5em;border:1px solid red' src='techienews/techie.png'/>
 </div>
 
