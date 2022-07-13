@@ -6,9 +6,9 @@
    <img style='border-radius:0.5em;border:1px solid red' src='shoptem.png'/>
 </div>
 <div style='border-radius:0.5em;border:1px solid red display:flex;flex-wrap:wrap;flex-direction:row;justify-content:center;text-align:center;'>
-       <img src='shoptem3.png'style='border-radius:0.5em;border:1px solid red width:18%;height:60vh;'/>
-       <img src='shoptem1.png'style='border-radius:0.5em;border:1px solid red width:18%;height:60vh;'/>
-       <img src='shoptem2.png' style='border-radius:0.5em;border:1px solid red width:18%;height:60vh;'/>
-       <img src='shoptem4.png' style='border-radius:0.5em;border:1px solid red width:18%;height:60vh;'/>
-       <img src='shoptem5.png' style='border-radius:0.5em;border:1px solid red width:18%;height:60vh;'/>
+       <img src='shoptem3.png' width=150  style='border-radius:0.5em;border:1px solid red width:18%;height:60vh;'/>
+       <img src='shoptem1.png' width=150  style='border-radius:0.5em;border:1px solid red width:18%;height:60vh;'/>
+       <img src='shoptem2.png' width=150  style='border-radius:0.5em;border:1px solid red width:18%;height:60vh;'/>
+       <img src='shoptem4.png' width=150  style='border-radius:0.5em;border:1px solid red width:18%;height:60vh;'/>
+       <img src='shoptem5.png' width=150  style='border-radius:0.5em;border:1px solid red width:18%;height:60vh;'/>
 </div>
