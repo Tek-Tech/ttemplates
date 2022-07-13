@@ -1,7 +1,7 @@
-*SIMPLY*
+*SHOPTEMP*
 
 >**PREVIEW AT**
->><a href='https://tek-tech.github.io/ttemplates/simply'>https://tek-tech.github.io/ttemplates/simply</a>
+>><a href='https://tek-tech.github.io/ttemplates/shoptemp'>https://tek-tech.github.io/ttemplates/shoptemp</a>
 <div style='border-radius:0.5em;border:1px solid red'>
    <img style='border-radius:0.5em;border:1px solid red' src='shoptem.png'/>
 </div>
