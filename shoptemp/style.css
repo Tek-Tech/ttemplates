@@ -235,4 +235,8 @@ footer #bloc-copyright{
         overflow-x: hidden;
         background: #fff9;
     }   
+    #contenu-derniers-produits{
+        display: flex;
+        flex-direction: column;
+    }
 }
