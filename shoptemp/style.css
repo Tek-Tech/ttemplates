@@ -239,4 +239,37 @@ footer #bloc-copyright{
         display: flex;
         flex-direction: column;
     }
+    .liste-lasts-produits-cat .produit,.liste-lasts-produits .produit{
+        display: flex;
+        flex-direction: column;
+        width: 86.5vw;
+        height: 30vh;
+        margin: 0;
+        padding: 0;
+    }
+    .produit .illu-produit{
+        position: absolute;
+        width: 86.5vw;
+        height: 30vh;
+        width: inherit;
+        display: flex;
+        border: none;
+        flex-direction: column;
+    }
+    .produit .illu-produit img{
+        background: #fff9;
+        height: 30vh;
+        width: 86.5vw;
+        display: flex;
+        border: none;
+        flex-direction: column;
+    }
+    .produit .data-produit{
+        z-index: 3;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        width: 100%;
+    }
 }
