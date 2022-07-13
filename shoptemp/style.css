@@ -156,7 +156,6 @@ nav a:hover{
     flex-direction: column;
 }
 .produit .illu-produit img{
-    background: #ffb9;
     height: 30vh;
     width: 16.5vw;
     display: flex;
